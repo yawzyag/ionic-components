@@ -7,7 +7,6 @@ import {
   IonToolbar,
   IonPage,
   IonContent,
-  IonTitle,
   IonRouterLink,
 } from "@ionic/react";
 import { IonReactRouter } from "@ionic/react-router";
